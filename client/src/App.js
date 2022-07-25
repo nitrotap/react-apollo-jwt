@@ -2,9 +2,6 @@ import * as React from 'react';
 import Box from '@mui/material/Box';
 import CssBaseline from '@mui/material/CssBaseline';
 
-
-
-
 //apollo
 import {
   ApolloClient,
@@ -42,13 +39,7 @@ const client = new ApolloClient({
   cache: new InMemoryCache(),
 });
 
-
-
-
-
 export default function App() {
-
-
 
   return (
     <ApolloProvider client={client}>
@@ -58,7 +49,7 @@ export default function App() {
             <CssBaseline />
 
             <Routes>
-              {/* <Route path="/" element={<Home />} /> */}
+              <Route path="/" element={<Signup />} />
               <Route path="signup" element={<Signup />} />
               <Route path="login" element={<Login />} />
             </Routes>
