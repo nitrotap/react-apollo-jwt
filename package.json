@@ -1,0 +1,19 @@
+{
+  "name": "react-apollo-jwt",
+  "version": "1.0.0",
+  "description": "Full Stack React app with apollo server/client and jwt authentication",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitrotap/react-apollo-jwt.git"
+  },
+  "author": "nitrotap",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nitrotap/react-apollo-jwt/issues"
+  },
+  "homepage": "https://github.com/nitrotap/react-apollo-jwt#readme"
+}
