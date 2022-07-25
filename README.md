@@ -6,7 +6,7 @@ Sample App using MERN stack and JWT Authentication
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![badmath](https://img.shields.io/github/languages/top/nitrotap/react-apollo-jwt)
-![badmath](https://img.shields.io/github/languages/top/nitrotap/nitrotap/react-apollo-jwt)  
+![badmath](https://img.shields.io/github/languages/top/nitrotap/react-apollo-jwt)  
 ![badmath](https://img.shields.io/github/issues/nitrotap/react-apollo-jwt)
 ![badmath](https://img.shields.io/github/forks/nitrotap/react-apollo-jwt)  
 ![badmath](https://img.shields.io/github/stars/nitrotap/react-apollo-jwt)
